@@ -1,7 +1,6 @@
 # Restaurant Workforce Analytics & Staff Scheduling Optimization
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Scikit-Learn](https://img.shields.io/badge/ML-scikit--learn-orange.svg)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Analytics-Pandas-150458.svg)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Visuals-Matplotlib-11557c.svg)](https://matplotlib.org/)
@@ -468,4 +467,3 @@ Do **NOT** upload temporary IDE directories (`.vscode/`, `.idea/`), virtual envi
 ## 👤 Author & Academic Recognition
 - **Project**: Restaurant Workforce Analytics & Staff Scheduling Optimization
 - **Domain**: Business Analytics, Hospitality Operations Research, Applied Machine Learning (MSBA Portfolio Project)
-- **License**: MIT License
