@@ -429,38 +429,6 @@ Implementing this data-driven workforce analytics system delivers tangible opera
 - [ ] **Live Weather API Ingestion**: Ingest 7-day meteorological forecasts via open weather APIs.
 - [ ] **Interactive Streamlit Dashboard**: Optional lightweight web dashboard for visual drag-and-drop schedule editing.
 
----
-
-## 📁 GitHub Portfolio Upload Guide
-
-When publishing this project to your GitHub profile, upload the following files:
-
-```
-├── data/
-│   └── restaurant_workforce.csv
-├── src/
-│   ├── __init__.py
-│   ├── generate_data.py
-│   ├── data_analysis.py
-│   ├── demand_forecasting.py
-│   ├── staffing_optimizer.py
-│   └── main.py
-├── outputs/
-│   ├── charts/
-│   │   └── (All 10 generated .png files)
-│   ├── reports/
-│   │   └── (All generated .csv and .txt reports)
-│   └── predictions/
-│       └── 7_day_staffing_recommendations.csv
-├── tests/
-│   └── test_pipeline.py
-├── .gitignore
-├── requirements.txt
-├── run_project.py
-└── README.md
-```
-
-Do **NOT** upload temporary IDE directories (`.vscode/`, `.idea/`), virtual environment folders (`.venv/`, `env/`), or compiled bytecode (`__pycache__/`, `*.pyc`). The included `.gitignore` handles this automatically.
 
 ---
 
