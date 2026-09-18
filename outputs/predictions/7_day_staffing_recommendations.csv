@@ -1,0 +1,71 @@
+date,day_name,shift,role,predicted_covers,recommended_staff,current_scheduled_staff,staffing_gap,staffing_status,hourly_wage,hours_per_employee,recommended_labor_cost,legacy_scheduled_labor_cost,cost_variance
+2025-01-01,Wednesday,Lunch,Server,139,18,11,7,Understaffed (Add Staff),14.0,5.0,1260.0,770.0,490.0
+2025-01-01,Wednesday,Lunch,Cook,139,9,6,3,Understaffed (Add Staff),20.0,5.0,900.0,600.0,300.0
+2025-01-01,Wednesday,Lunch,Host,139,6,4,2,Understaffed (Add Staff),15.0,5.0,450.0,300.0,150.0
+2025-01-01,Wednesday,Lunch,Cashier,139,5,4,1,Understaffed (Add Staff),14.0,5.0,350.0,280.0,70.0
+2025-01-01,Wednesday,Lunch,Dishwasher,139,7,4,3,Understaffed (Add Staff),13.0,5.0,455.0,260.0,195.0
+2025-01-01,Wednesday,Dinner,Server,230,29,14,15,Understaffed (Add Staff),14.0,6.5,2639.0,1274.0,1365.0
+2025-01-01,Wednesday,Dinner,Cook,230,15,8,7,Understaffed (Add Staff),20.0,6.5,1950.0,1040.0,910.0
+2025-01-01,Wednesday,Dinner,Host,230,10,5,5,Understaffed (Add Staff),15.0,6.5,975.0,487.5,487.5
+2025-01-01,Wednesday,Dinner,Cashier,230,9,5,4,Understaffed (Add Staff),14.0,6.5,819.0,455.0,364.0
+2025-01-01,Wednesday,Dinner,Dishwasher,230,11,6,5,Understaffed (Add Staff),13.0,6.5,929.5,507.0,422.5
+2025-01-02,Thursday,Lunch,Server,101,13,11,2,Understaffed (Add Staff),14.0,5.0,910.0,770.0,140.0
+2025-01-02,Thursday,Lunch,Cook,101,7,6,1,Understaffed (Add Staff),20.0,5.0,700.0,600.0,100.0
+2025-01-02,Thursday,Lunch,Host,101,5,4,1,Understaffed (Add Staff),15.0,5.0,375.0,300.0,75.0
+2025-01-02,Thursday,Lunch,Cashier,101,4,4,0,Balanced,14.0,5.0,280.0,280.0,0.0
+2025-01-02,Thursday,Lunch,Dishwasher,101,5,4,1,Understaffed (Add Staff),13.0,5.0,325.0,260.0,65.0
+2025-01-02,Thursday,Dinner,Server,164,21,14,7,Understaffed (Add Staff),14.0,6.5,1911.0,1274.0,637.0
+2025-01-02,Thursday,Dinner,Cook,164,11,8,3,Understaffed (Add Staff),20.0,6.5,1430.0,1040.0,390.0
+2025-01-02,Thursday,Dinner,Host,164,7,5,2,Understaffed (Add Staff),15.0,6.5,682.5,487.5,195.0
+2025-01-02,Thursday,Dinner,Cashier,164,6,5,1,Understaffed (Add Staff),14.0,6.5,546.0,455.0,91.0
+2025-01-02,Thursday,Dinner,Dishwasher,164,8,6,2,Understaffed (Add Staff),13.0,6.5,676.0,507.0,169.0
+2025-01-03,Friday,Lunch,Server,112,14,11,3,Understaffed (Add Staff),14.0,5.0,980.0,770.0,210.0
+2025-01-03,Friday,Lunch,Cook,112,7,6,1,Understaffed (Add Staff),20.0,5.0,700.0,600.0,100.0
+2025-01-03,Friday,Lunch,Host,112,5,4,1,Understaffed (Add Staff),15.0,5.0,375.0,300.0,75.0
+2025-01-03,Friday,Lunch,Cashier,112,4,4,0,Balanced,14.0,5.0,280.0,280.0,0.0
+2025-01-03,Friday,Lunch,Dishwasher,112,6,4,2,Understaffed (Add Staff),13.0,5.0,390.0,260.0,130.0
+2025-01-03,Friday,Dinner,Server,243,31,14,17,Understaffed (Add Staff),14.0,6.5,2821.0,1274.0,1547.0
+2025-01-03,Friday,Dinner,Cook,243,16,8,8,Understaffed (Add Staff),20.0,6.5,2080.0,1040.0,1040.0
+2025-01-03,Friday,Dinner,Host,243,10,5,5,Understaffed (Add Staff),15.0,6.5,975.0,487.5,487.5
+2025-01-03,Friday,Dinner,Cashier,243,9,5,4,Understaffed (Add Staff),14.0,6.5,819.0,455.0,364.0
+2025-01-03,Friday,Dinner,Dishwasher,243,12,6,6,Understaffed (Add Staff),13.0,6.5,1014.0,507.0,507.0
+2025-01-04,Saturday,Lunch,Server,102,13,11,2,Understaffed (Add Staff),14.0,5.0,910.0,770.0,140.0
+2025-01-04,Saturday,Lunch,Cook,102,7,6,1,Understaffed (Add Staff),20.0,5.0,700.0,600.0,100.0
+2025-01-04,Saturday,Lunch,Host,102,5,4,1,Understaffed (Add Staff),15.0,5.0,375.0,300.0,75.0
+2025-01-04,Saturday,Lunch,Cashier,102,4,4,0,Balanced,14.0,5.0,280.0,280.0,0.0
+2025-01-04,Saturday,Lunch,Dishwasher,102,5,4,1,Understaffed (Add Staff),13.0,5.0,325.0,260.0,65.0
+2025-01-04,Saturday,Dinner,Server,233,30,14,16,Understaffed (Add Staff),14.0,6.5,2730.0,1274.0,1456.0
+2025-01-04,Saturday,Dinner,Cook,233,15,8,7,Understaffed (Add Staff),20.0,6.5,1950.0,1040.0,910.0
+2025-01-04,Saturday,Dinner,Host,233,10,5,5,Understaffed (Add Staff),15.0,6.5,975.0,487.5,487.5
+2025-01-04,Saturday,Dinner,Cashier,233,9,5,4,Understaffed (Add Staff),14.0,6.5,819.0,455.0,364.0
+2025-01-04,Saturday,Dinner,Dishwasher,233,11,6,5,Understaffed (Add Staff),13.0,6.5,929.5,507.0,422.5
+2025-01-05,Sunday,Lunch,Server,111,14,11,3,Understaffed (Add Staff),14.0,5.0,980.0,770.0,210.0
+2025-01-05,Sunday,Lunch,Cook,111,7,6,1,Understaffed (Add Staff),20.0,5.0,700.0,600.0,100.0
+2025-01-05,Sunday,Lunch,Host,111,5,4,1,Understaffed (Add Staff),15.0,5.0,375.0,300.0,75.0
+2025-01-05,Sunday,Lunch,Cashier,111,4,4,0,Balanced,14.0,5.0,280.0,280.0,0.0
+2025-01-05,Sunday,Lunch,Dishwasher,111,6,4,2,Understaffed (Add Staff),13.0,5.0,390.0,260.0,130.0
+2025-01-05,Sunday,Dinner,Server,214,27,14,13,Understaffed (Add Staff),14.0,6.5,2457.0,1274.0,1183.0
+2025-01-05,Sunday,Dinner,Cook,214,14,8,6,Understaffed (Add Staff),20.0,6.5,1820.0,1040.0,780.0
+2025-01-05,Sunday,Dinner,Host,214,9,5,4,Understaffed (Add Staff),15.0,6.5,877.5,487.5,390.0
+2025-01-05,Sunday,Dinner,Cashier,214,8,5,3,Understaffed (Add Staff),14.0,6.5,728.0,455.0,273.0
+2025-01-05,Sunday,Dinner,Dishwasher,214,10,6,4,Understaffed (Add Staff),13.0,6.5,845.0,507.0,338.0
+2025-01-06,Monday,Lunch,Server,113,15,11,4,Understaffed (Add Staff),14.0,5.0,1050.0,770.0,280.0
+2025-01-06,Monday,Lunch,Cook,113,8,6,2,Understaffed (Add Staff),20.0,5.0,800.0,600.0,200.0
+2025-01-06,Monday,Lunch,Host,113,5,4,1,Understaffed (Add Staff),15.0,5.0,375.0,300.0,75.0
+2025-01-06,Monday,Lunch,Cashier,113,5,4,1,Understaffed (Add Staff),14.0,5.0,350.0,280.0,70.0
+2025-01-06,Monday,Lunch,Dishwasher,113,6,4,2,Understaffed (Add Staff),13.0,5.0,390.0,260.0,130.0
+2025-01-06,Monday,Dinner,Server,185,24,14,10,Understaffed (Add Staff),14.0,6.5,2184.0,1274.0,910.0
+2025-01-06,Monday,Dinner,Cook,185,12,8,4,Understaffed (Add Staff),20.0,6.5,1560.0,1040.0,520.0
+2025-01-06,Monday,Dinner,Host,185,8,5,3,Understaffed (Add Staff),15.0,6.5,780.0,487.5,292.5
+2025-01-06,Monday,Dinner,Cashier,185,7,5,2,Understaffed (Add Staff),14.0,6.5,637.0,455.0,182.0
+2025-01-06,Monday,Dinner,Dishwasher,185,9,6,3,Understaffed (Add Staff),13.0,6.5,760.5,507.0,253.5
+2025-01-07,Tuesday,Lunch,Server,105,14,11,3,Understaffed (Add Staff),14.0,5.0,980.0,770.0,210.0
+2025-01-07,Tuesday,Lunch,Cook,105,7,6,1,Understaffed (Add Staff),20.0,5.0,700.0,600.0,100.0
+2025-01-07,Tuesday,Lunch,Host,105,5,4,1,Understaffed (Add Staff),15.0,5.0,375.0,300.0,75.0
+2025-01-07,Tuesday,Lunch,Cashier,105,4,4,0,Balanced,14.0,5.0,280.0,280.0,0.0
+2025-01-07,Tuesday,Lunch,Dishwasher,105,5,4,1,Understaffed (Add Staff),13.0,5.0,325.0,260.0,65.0
+2025-01-07,Tuesday,Dinner,Server,161,21,14,7,Understaffed (Add Staff),14.0,6.5,1911.0,1274.0,637.0
+2025-01-07,Tuesday,Dinner,Cook,161,11,8,3,Understaffed (Add Staff),20.0,6.5,1430.0,1040.0,390.0
+2025-01-07,Tuesday,Dinner,Host,161,7,5,2,Understaffed (Add Staff),15.0,6.5,682.5,487.5,195.0
+2025-01-07,Tuesday,Dinner,Cashier,161,6,5,1,Understaffed (Add Staff),14.0,6.5,546.0,455.0,91.0
+2025-01-07,Tuesday,Dinner,Dishwasher,161,8,6,2,Understaffed (Add Staff),13.0,6.5,676.0,507.0,169.0

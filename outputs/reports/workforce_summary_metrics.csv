@@ -1,0 +1,16 @@
+metric,value
+total_records,3650.0
+total_shifts,730.0
+total_labor_cost,3000834.5
+average_labor_cost_per_shift_role,822.1464383561644
+average_customer_covers,149.1041095890411
+median_customer_covers,138.5
+average_service_score,4.301605479452055
+understaffing_percentage,46.465753424657535
+overstaffing_percentage,18.191780821917806
+balanced_staffing_percentage,35.342465753424655
+overall_absence_rate,6.166478730110651
+average_labor_cost_per_customer,27.569543207834922
+average_staffing_required,9.676986301369864
+average_actual_staffing,9.074520547945205
+average_staffing_gap,-0.6024657534246576
